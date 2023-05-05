@@ -1,4 +1,4 @@
-10. const formatString = function (string) {
+const formatString = function (string) {
   if (string.length <= 40) {
     return string;
   } else {
